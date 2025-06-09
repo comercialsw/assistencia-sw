@@ -26,11 +26,8 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- Função para carregar os dados com cache ---
-@st.cache_data
-def carregar_dados():
-    return pd.read_csv("assistencia.csv")
 
-dados = carregar_dados()
+dados = pd.read_csv("assistencia.csv")
 
 # --- Sidebar com filtros básicos, sem logo ---
 with st.sidebar:

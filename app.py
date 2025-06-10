@@ -11,7 +11,7 @@ st.set_page_config(page_title="Assistências Técnicas", layout="wide")
 # --- Logo centralizada no topo ---
 try:
     logo = Image.open("logo-smartway.jpg")
-    st.image(logo, use_container_width=True)
+    st.image(logo, width=120)
 except Exception as e:
     st.error(f"Erro ao carregar a logo: {e}")
 
@@ -77,7 +77,7 @@ else:
             location=[row['Latitude'], row['Longitude']],
             popup=folium.Popup(popup_html, max_width=300, min_width=200),
             tooltip=row['Nome'],
-            icon=folium.Icon(color='green', icon='wrench', prefix='fa')
+            icon=folium.Icon(color='orange', icon='wrench', prefix='fa')
         ).add_to(mapa)
 
     st_folium(mapa, use_container_width=True, height=500)

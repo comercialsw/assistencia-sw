@@ -70,6 +70,18 @@ with left_column:
 
     cidade_busca = st.text_input("Buscar por Cidade:")
 
+    # --- Novo filtro de Serviços ---
+    if "Serviços" in dados.columns:
+        servicos_disponiveis = sorted(dados["Serviços"].dropna().unique())
+        servicos_selecionados = st.multiselect(
+            "Tipo de Serviço:",
+            options=servicos_disponiveis,
+            default=servicos_disponiveis # Pode definir um default diferente se preferir
+        )
+    else:
+        st.warning("A coluna 'Serviços' não foi encontrada no arquivo CSV.")
+        servicos_selecionados = []
+
 # --- Coluna da Direita (nosso conteúdo principal) ---
 with right_column:
     # --- Aplicar filtros (baseado nas seleções da coluna da esquerda) ---
@@ -78,6 +90,9 @@ with right_column:
         dados_filtrados = dados_filtrados[dados_filtrados["Estado"].isin(estados)]
     if "Cidade" in dados.columns and cidade_busca:
         dados_filtrados = dados_filtrados[dados_filtrados["Cidade"].str.contains(cidade_busca, case=False, na=False)]
+    # Aplicar o novo filtro de Serviços
+    if "Serviços" in dados.columns and servicos_selecionados:
+        dados_filtrados = dados_filtrados[dados_filtrados["Serviços"].isin(servicos_selecionados)]
 
     # --- Informação de assistências encontradas ---
     st.markdown(f"<div style='text-align:center;font-size:1.1em;'><b>{len(dados_filtrados)} assistência(s) encontrada(s)</b></div>", unsafe_allow_html=True)

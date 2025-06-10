@@ -26,10 +26,10 @@ with col_logo2:
 
 st.markdown("""
     <div style='text-align:center; font-size: 1.5em; font-weight:bold; margin-bottom:0.3em;'>
-        🛠️ Mapa de Assistências Técnicas Parceiras
+        🤝 Mapa de Parceiros da Smartway
     </div>
     <div style='text-align:center; color:#228B22; margin-bottom:1em;'>
-        Encontre e entre em contato com assistências técnicas parceiras Smartway!
+        Encontre e entre em contato com parceiros da Smartway!
     </div>
     """, unsafe_allow_html=True)
 

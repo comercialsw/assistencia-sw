@@ -18,7 +18,7 @@ except Exception as e:
 # --- Título e descrição curta ---
 st.markdown("""
     <div style='text-align:center; font-size: 1.5em; font-weight:bold; margin-bottom:0.3em;'>
-        🛠️ Mapa Interativo de Assistências Técnicas Parceiras
+        🛠️ Mapa de Assistências Técnicas Parceiras
     </div>
     <div style='text-align:center; color:#228B22; margin-bottom:1em;'>
         Encontre e entre em contato com assistências técnicas parceiras SmartWay!
@@ -60,7 +60,7 @@ else:
             telefone = '55' + telefone
 
         mensagem = quote_plus(
-            "Olá, encontrei seu contato no mapa SmartWay. Poderia me ajudar com minha scooter?"
+            "Olá, encontrei seu contato na Smartway. Poderia me ajudar com minha scooter?"
         )
         link_whatsapp = f"https://wa.me/{telefone}?text={mensagem}"
 

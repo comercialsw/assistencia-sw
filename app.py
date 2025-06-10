@@ -21,7 +21,7 @@ st.markdown("""
         🛠️ Mapa de Assistências Técnicas Parceiras
     </div>
     <div style='text-align:center; color:#228B22; margin-bottom:1em;'>
-        Encontre e entre em contato com assistências técnicas parceiras SmartWay!
+        Encontre e entre em contato com assistências técnicas parceiras Smartway!
     </div>
     """, unsafe_allow_html=True)
 

@@ -95,7 +95,7 @@ with right_column:
         dados_filtrados = dados_filtrados[dados_filtrados["Serviços"].isin(servicos_selecionados)]
 
     # --- Informação de assistências encontradas ---
-    st.markdown(f"<div style='text-align:center;font-size:1.1em;'><b>{len(dados_filtrados)} assistência(s) encontrada(s)</b></div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='text-align:center;font-size:1.1em;'><b>{len(dados_filtrados)} parceiro(s) encontrado(s)</b></div>", unsafe_allow_html=True)
 
     # --- Mapa ---
     mapa = folium.Map(location=[-14.2350, -51.9253], zoom_start=4, control_scale=True)

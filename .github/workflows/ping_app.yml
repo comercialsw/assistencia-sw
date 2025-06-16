@@ -1,0 +1,14 @@
+name: Ping Streamlit App
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # roda a cada 15 minutos (fuso horário UTC)
+  workflow_dispatch:        # permite rodar manualmente também
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Streamlit App
+        run: |
+          curl -s https://assistencia-sw-tech.streamlit.app > /dev/null

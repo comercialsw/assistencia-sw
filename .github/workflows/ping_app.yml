@@ -2,7 +2,7 @@ name: Ping Streamlit App
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # roda a cada 15 minutos (fuso horário UTC)
+    - cron: '*/10 * * * *'  # roda a cada 15 minutos (fuso horário UTC)
   workflow_dispatch:        # permite rodar manualmente também
 
 jobs:

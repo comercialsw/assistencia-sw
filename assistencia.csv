@@ -1,23 +1,34 @@
 Nome,Cidade,Estado,Latitude,Longitude,Contato,Serviços
-MEGA SANTOS MOTOS LTDA,MARINGÁ,PR,-23.397825,-51.918901,(44) 99930-7030,Revendedor
-ISAIAS ALVES DOS SANTOS,BRASILANDIA DE MINAS,MG,-16.998252,-46.009948,(38) 99243-8967,Revendedor
-BIKE JUNIOR,BOCAIÚVA,MG,-17.1181936,-43.8076632,(38) 99848-9630,Revendedor
-BARBETTO & JANI LTDA,MARIALVA,PR,-23.486674,-51.795467,(44) 99993-0857,Revendedor
-PRADOM'S SERVICES LTDA,TEUTÔNIA,RS,-29.471521,-51.820717,(51) 9900-9404,Revendedor
-COMERCIAL OLIVEIRA E CARDOSO LTDA,BOCAIÚVA,MG,-17.111336,-43.820332,(38) 9941-9445,Revendedor
-JAIR SCHEIN,NOVA XAVANTINA,MT,-14.658841,-52.352911,(56) 6815-3039,Revendedor
-POWER BIKES MOBILIDADE ELETRICA LTDA,SANTA JULIANA,MG,-19.311974,-47.529151,(34) 99842-2848,Revendedor
-KLEIN BICICLETAS,LAJEADO,RS,-29.456012,-51.964672,(51) 99134-8541,Revendedor
-SIMONINI IMPORTS LTDA,TIJUCAS,SC,-27.243588,-48.643949,(48) 9663-6525,Revendedor
-49.990.045 JANAINA BORBA RAMOS,CONCEIÇÃO DAS ALAGOAS,MG,-19.919425,-48.381354,(34) 8447-0014,Revendedor
-SHOW ROOM COMERCIO DE MOTOCICLETAS LTDA,NAZARE JACOBINA,BA,-11.178801,-40.526623,(74) 9122-8229,Revendedor
-CENTER BIKE,ITUIUTABA,MG,-18.966893,-49.461997,(34) 3261-3942,Revendedor
-ELETRICK SCOOTERS MOTOCICLETAS,MONTES CLAROS,MG,-16.721225,-43.864841,(38) 99194-0007,Revendedor
-CSK LTDA,NOVA PETRÓPOLIS,RS,-29.359572,-51.106980,(51) 98193-9378,Revendedor
-WAKAN TERCEIRIZACAO DE SERVICOS DE MONITORAMENTO DE SISTEMAS,SÃO PAULO,SP,-23.486922,-46.577848,(11) 98271-1109,Revendedor
-JRV BIKES E ACESSORIOS 2 LTDA,SÃO VICENTE,SP,-23.961163,-46.379757,(13) 99678-9710,Revendedor
-INFOBRASIL MOTORS MOBILIDADE E TECNOLOGIA LTDA,FERNANDÓPOLIS,SP,-20.281111,-50.250958,(17) 98171-9323,Revendedor
-YAN ROCHA,CASTANHAL,PA,-1.3018023,-47.9138398,(91) 8533-1336,Assistência Técnica
-BRUNO DA SILVA,PASSOS,MG,-20.7208944,-46.6188443,(35) 98808-6678,Assistência Técnica
-CROSS BIK VALDEIR,SÃO JOÃO DA BOA VISTA,SP,-21.9850567,-46.7846084,(19) 3631-0034,Assistência Técnica
+Agnaldo Gomes,Garça,SP,-22.2243448,-49.6383549,(14) 98183-7791,Revendedor/Assist. Técnica
+Allison Bikes,Santo Anastácio,SP,-21.9737293,-51.6545117,(18) 99665-3510,Revendedor/Assist. Técnica
+Andrea Aparecida Patricio Rodrigues,Belém,PA,-1.395742,-48.4315064,(91) 8394-1433,Revendedor/Assist. Técnica
+Barbetto & Jani LTDA,Marialva,PR,-23.4866736,-51.7954669,(44) 99993-0857,Revendedor/Assist. Técnica
+Bike Peças Comércio de Peças pata Bicicletas LTDA,Vitória da Conquista,BA,-14.8517433,-40.8451458,(77) 8808-0763,Revendedor/Assist. Técnica
+Camelier Comércio LTDA,Parnamirim,RN,-5.9211146,-35.2638397,(84) 99665-4233,Revendedor/Assist. Técnica
+Carla Rodrigues Alves de Mayo,Itapetininga,SP,-23.5919858,-48.0523144,(15) 99115-6254,Revendedor/Assist. Técnica
+Casa do Óleo Sumaré LTDA,Caraguatatuba,SP,-23.6189655,-45.4013836,(12) 97406-2548,Revendedor/Assist. Técnica
+Comercial Oliveira e Cardoso LTDA,Bocaiúva,MG,-17.1115101,-43.8192491,(38) 9941-9445,Revendedor/Assist. Técnica
+Csk LTDA,Nova Petrópolis,RS,-29.3706052,-51.1125089,(51) 98193-9378,Revendedor/Assist. Técnica
+Diana Correa Brito Santos,Mateus Leme,MG,-19.9885655,-44.4274371,(31) 99184-2250,Revendedor/Assist. Técnica
+Diogo Fernando Machado,Lavras,MG,-21.24548,-45.01919,(35) 3822-4155,Revendedor/Assist. Técnica
+Dione A. Souza de Resende,João Pinheiro,MG,-17.7449579,-46.1734267,(38) 99988-5096,Revendedor/Assist. Técnica
+Edvaldo Junio Rodrigues Pimenta,Bocaiúva,MG,-17.1115213,-43.8172351,(38) 99848-9630,Revendedor/Assist. Técnica
+Eletromais Comércio e Serviços Ltda,Nova Ponte,MG,-19.1654646,-47.6746741,(34) 99960-6789,Revendedor/Assist. Técnica
+Eletrotche Shopping Ltda,Janaúba,MG,-15.811545,-43.3055689,(38) 97353001,Revendedor/Assist. Técnica
+Gustavo Ramirez de Barros,Caxambu,MG,-21.980168,-44.932894,(35) 92000-0536,Revendedor/Assist. Técnica
+J L B da Conceição,Paulo Afonso,BA,-9.444358,-38.2178788,(75) 98827-4087,Revendedor/Assist. Técnica
+Jair Schein,Nova Xavantina,MT,-14.6588415,-52.3529111,(66) 98153-0390,Revendedor/Assist. Técnica
+Janaina Borba Ramos,Frutal,MG,-20.0307317,-48.9299518,(34) 8447-0014,Revendedor/Assist. Técnica
+Joice Aparecida Ferreira Batista,Serra,ES,-20.1986729,-40.2503042,(27) 99296-9999,Revendedor/Assist. Técnica
+Klein Bicicletas,Lajeado,RS,-29.456014,-51.9646706,(51) 99134-8541,Revendedor/Assist. Técnica
+Marcell Pecas e Acessorios Para Celulares Ltda,Campo Mourão,PR,-24.0384897,-52.3710909,(44) 99965-9799,Revendedor/Assist. Técnica
+Mario Colchoaria e Confecções Ltda / R7 PRIME,Guaranésia,MG,-21.2992956,-46.803409,(19) 98781-0656,Revendedor/Assist. Técnica
+Mega Bike - Elias Magno Alves,Sete Lagoas,MG,-19.4648,-44.2431149,(53) 1969-2484,Revendedor/Assist. Técnica
+Mega Santos Motos Ltda,Maringá,PR,-23.4085111,-51.9236383,(44) 99930-7030,Revendedor/Assist. Técnica
+Mercantil Cardoso LTDA/ COMERCIAL OLIVEIRA,Bocaiúva,MG,-17.1115101,-43.8192491,(38) 99237-3131,Revendedor/Assist. Técnica
+Mobitech Mobilidade Elétrica LTDA,Brasilândia de Minas,MG,-16.9982521,-46.0099481,(38) 9243-8967,Revendedor/Assist. Técnica
+Moveis do Araguaia,Querência,MT,-12.5931232,-52.2132161,(66) 99988-2545,Revendedor/Assist. Técnica
+J V Goncalves da Silva Minimercado,Ubatuba,SP,-23.4292123,-45.109071,(12) 99222-2488,Revendedor/Assist. Técnica
+P. C. BICICLETAS E MOTOS LTDA,Campo Mourão,PR,-24.0443715,-52.3806964,(44) 99151-9141,Revendedor/Assist. Técnica
+POWER BIKES MOBILIDADE ELETRICA LTDA,Campo Mourão,MG,-19.3117108,-47.5304384,(34) 99842-2848,Revendedor/Assist. Técnica
 
